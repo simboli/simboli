@@ -4,7 +4,7 @@
 
 **find more about me on [my personal website](https://www.simboli.eu)!**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=simboli&theme=graywhite)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=simboli&theme=graywhite)-->
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simboli&theme=graywhite)
 
