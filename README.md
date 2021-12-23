@@ -2,7 +2,7 @@
 
 *developer, analyst and consultant*
 
-**find more about me on [my personal website simboli.eu](https://www.simboli.eu)!**
+**find more about me on my personal website [simboli.eu](https://www.simboli.eu)!**
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=simboli&theme=graywhite)-->
 
